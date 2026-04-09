@@ -43,4 +43,5 @@ The goal is to highlight **rare, high-impact drugs** and understand which medica
 
 ## 💡 Notes / Tips
 - Pivot tables are **interactive**, allowing anyone to explore filters and sorting.  
-- Sheet names are descriptive for clarity.  
+- Sheet names are descriptive for clarity.
+- Dataset source: **Centers for Medicare & Medicaid Services (CMS) Part D Drug Spending Data**
