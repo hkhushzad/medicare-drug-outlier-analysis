@@ -73,3 +73,14 @@
 
 - 📌 Supports understanding of **healthcare cost drivers and risk distribution in clinical systems**  
 - 📌 Relevant to healthcare financing and policy evaluation contexts
+
+---
+
+## 📁 Data Source
+
+- 🏛️ Data obtained from the Centers for Medicare & Medicaid Services (CMS)  
+- 💊 Medicare Part B / Part D Drug Spending Dataset  
+- 🔗 https://data.cms.gov/  
+- 📊 Public healthcare claims and drug utilization data used for cost and spending analysis
+
+---
