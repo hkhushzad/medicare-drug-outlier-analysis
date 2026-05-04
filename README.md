@@ -72,4 +72,4 @@
 ## 🎯 Policy Relevance
 
 - 📌 Supports understanding of **healthcare cost drivers and risk distribution in clinical systems**  
-- 📌 Relevant to healthcare financing and policy evaluation contexts such as those within the :contentReference[oaicite:1]{index=1}  
+- 📌 Relevant to healthcare financing and policy evaluation contexts
